@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 5rem;
+  background-color: rgb(60, 32, 4);
+  padding: 0 5rem;
+
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+
+}
